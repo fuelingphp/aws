@@ -1,0 +1,17 @@
+{
+    "name": "phpcloudnative/aws",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stephen Miracle",
+            "email": "stephen@thatmiracle.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Acme\\Package\\": "src"
+        }
+    },
+    "require": {}
+}
