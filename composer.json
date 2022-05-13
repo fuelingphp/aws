@@ -10,8 +10,10 @@
     ],
     "autoload": {
         "psr-4": {
-            "Acme\\Package\\": "src"
+            "PHPCloudNative\\AWS\\": "src"
         }
     },
-    "require": {}
+    "require": {
+        "php": "^7.4||^8.0"
+    }
 }
